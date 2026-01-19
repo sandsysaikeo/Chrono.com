@@ -87,10 +87,10 @@ a.link-ho:hover {
 
 .menu a {
     display: block;
-    padding: 15px 75px;
+    padding: 15px 95px;
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
 }
 .menu li.active a {
